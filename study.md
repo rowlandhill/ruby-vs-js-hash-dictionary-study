@@ -13,6 +13,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 -   [Class: Hash](http://ruby-doc.org/core-2.3.1/Hash.html)
 -   [Class: Symbol](http://ruby-doc.org/core-2.3.1/Symbol.html)
 -   [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+-   [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ## Creating a Hash in Ruby
 
