@@ -129,7 +129,7 @@ of the key `given-name` is "Hank".
 
 ## JavaScript Dictionary Methods
 
-Using JavaScripts's array methods, set a variable named `hankKeys` to `hank`'s
+Using JavaScript's Array methods, set a variable named `hankKeys` to `hank`'s
 keys.  Additionally, set a variable named `hankValues` to `hanks`'s values.'
 
 ```javascript
