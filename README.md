@@ -14,7 +14,7 @@
 
 By the end of this, developers should be able to:
 
--   Constrast Ruby hashes with JavaScript dictionaries.
+-   Compare and contrast Ruby hashes with JavaScript dictionaries.
 -   Create a Ruby hash using both the implicit (`{}`) and `new` constructors.
 -   Assign a value to, modify, and delete a value in a Ruby hash using a
     specified key.
