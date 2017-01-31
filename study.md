@@ -9,9 +9,17 @@ process what you've read. Please do not respond with direct quotes from source
 material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
+-   [Ruby-Doc.org Hash#[]](http://ruby-doc.org/core-2.3.1/Hash.html#method-i-5B-5D)
+-   [Ruby-Doc.org Hash#delete](http://ruby-doc.org/core-2.3.1/Hash.html#method-i-5B-5D)
+-   [Ruby Programming / Syntax / Literals - Interpolation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#Interpolation)
+-   [Working with objects (Deleting properties) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Deleting_properties)
+-   [Object.keys() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+-   [Template literals - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
--   [Class: Hash](http://ruby-doc.org/core-2.3.1/Hash.html)
--   [Class: Symbol](http://ruby-doc.org/core-2.3.1/Symbol.html)
+## Suggested Readings
+
+-   [Ruby-Doc.org Class: Hash](http://ruby-doc.org/core-2.3.1/Hash.html)
+-   [Ruby-Doc.org Class: Symbol](http://ruby-doc.org/core-2.3.1/Symbol.html)
 -   [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 -   [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
