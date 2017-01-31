@@ -59,7 +59,7 @@ value of the key `given-name` is "Dale".
 
 ## Ruby Hash Methods
 
-Using Ruby's hash methods, set a variable named `dale_keys` to `dale`'s keys.
+Using Ruby's Hash methods, set a variable named `dale_keys` to `dale`'s keys.
 Additionally, set a variable named `dale_values` to `dale`'s values.'
 
 ```ruby
@@ -68,7 +68,7 @@ Additionally, set a variable named `dale_values` to `dale`'s values.'
 
 ## Accessing Hash Properties and Values
 
-Using hash methods and string interpolation in Ruby, create a string using
+Using Hash methods and string interpolation in Ruby, create a string using
 `dale` that equals "My name is Dale Gribble and I'm an exterminator that enjoys
 conspiracy theories.".
 
