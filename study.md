@@ -138,7 +138,7 @@ keys.  Additionally, set a variable named `hankValues` to `hanks`'s values.'
 
 ## Accessing Dictionary Properties and Values
 
-Using dictionary methods and template strings in JavaScript, create a string
+Using dictionary methods and template literals in JavaScript, create a string
 using `hank` that equals "My name is Hank Hill and I'm a propane and propane
 accesories salesman that enjoys drinking beer.".
 
